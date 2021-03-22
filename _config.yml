@@ -64,7 +64,7 @@ work:
       <li> Analyzed web performance data from PSQL databases</li>
     </ul>"
   - company: "International Computer Science Institute (ICSI)"
-    company_url: "https://http://icsi.berkeley.edu/"
+    company_url: "https://icsi.berkeley.edu/"
     role: "Research Intern"
     start: "May 2018"
     end: "August 2018"
@@ -73,7 +73,7 @@ work:
       <li> Performed DNS cache probing to estimate the population of IoT devices </li>
     </ul>"
   - company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
-    company_url: ""
+    company_url: "http://www.ipm.ac.ir"
     role: "Research Assistant"
     start: "June 2015"
     end: "July 2016"
@@ -92,7 +92,7 @@ work:
       <li> Designed a database for web applications. </li>
     </ul>"
   - company: "VADA Future Communications,Tehran, Iran"
-    company_url: ""
+    company_url: "https://vada.ir"
     role: "Software Developer"
     start: "January 2014"
     end: "December 2014"
