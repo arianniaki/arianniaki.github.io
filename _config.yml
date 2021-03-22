@@ -51,6 +51,8 @@ work:
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Conducting research in the areas of Internet Measurement, Privacy and Security. </li>
+      <li> Developing and maintaining a global <a href=\"https://iclab.org\">Internet Measurement Platform</a>. </li>
+      <li> Investigating DNS over HTTPS and DNS over TLS. </li>
     </ul>"
   - company: "Thousand Eyes (Cisco)"
     company_url: "https://www.thousandeyes.com"
@@ -59,6 +61,7 @@ work:
     end: "September 2020"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Worked on analyzing and comparing CDN performance globally</li>
+      <li> Analyzed web performance data from PSQL databases</li>
     </ul>"
   - company: "International Computer Science Institute (ICSI)"
     company_url: "https://http://icsi.berkeley.edu/"
@@ -66,7 +69,8 @@ work:
     start: "May 2018"
     end: "August 2018"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Worked on estimating IoT population using DNS cache probing</li>
+      <li> Worked on a research project about DNS cache probing </li>
+      <li> Performed DNS cache probing to estimate the population of IoT devices </li>
     </ul>"
   - company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
     company_url: ""
@@ -74,7 +78,8 @@ work:
     start: "June 2015"
     end: "July 2016"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets. </li>
+      <li> Worked on Performance Modeling and Evaluation of Web Services Using High Level Extensions of Petri Nets. </li>
+      <li> Supervised by Dr. Reza Entezari Maleki and Prof. Ali Movaghar </li>
     </ul>"
   - company: "Pishtazan Andishe Pouya, Tehran, Iran"
     company_url: ""
@@ -82,7 +87,9 @@ work:
     start: "January 2016"
     end: "July 2016"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Design and analysis of models for software information systems and web applications. </li>
+      <li> Produced, designed and analyzed models for software information systems and
+      web applications.</li>
+      <li> Designed a database for web applications. </li>
     </ul>"
   - company: "VADA Future Communications,Tehran, Iran"
     company_url: ""
@@ -90,7 +97,9 @@ work:
     start: "January 2014"
     end: "December 2014"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Designed, developed, and maintained mobile and web applications. </li>
+      <li> Developed several Android mobile applications </li>
+      <li> Designed, developed, and maintained Django/Semantic-UI web applications </li>
+      <li> Designed, developed a web crawler with Scrapy Spider </li>
     </ul>"
 
 
@@ -103,10 +112,12 @@ publication:
     authors: "Anonymous, Arian Akhavan Niaki, Nguyen Phong Hoang, Phillipa Gill and Amir Houmansadr"
     conference: "In Proceedings of the 10th USENIX Workshop on Free and Open Communications on the Internet. FOCI 20. USENIX 2020"
     pdf: "https://www.usenix.org/system/files/foci20-paper-anonymous_0.pdf"
+    video: "https://www.youtube.com/watch?v=ssG-mj2o_8o"
   - name: "Assessing the Privacy Benefits of Domain Name Encryption"
     authors: "Nguyen Phong Hoang, Arian Akhavan Niaki, Nikita Borisov, Phillipa Gill and Michalis Polychronakis"
     conference: "In Proceedings of ACM ASIACCS 2020"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3320269.3384728"
+    video: "https://dl.acm.org/doi/10.1145/3320269.3384728"
   - name: "The web is still small after more than a decade"
     authors: "Nguyen Phong Hoang, Arian Akhavan Niaki, Michalis Polychronakis and Phillipa Gill"
     conference: "In ACM SIGCOMM Computer Communication Review 2020"
@@ -115,18 +126,23 @@ publication:
     authors: "Arian Akhavan Niaki, Shinyoung Cho, Zachary Weinberg, Nguyen Phong Hoang, Abbas Razaghpanah, Nicolas Christin, and Phillipa Gill"
     conference: "Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland). IEEE. 2020"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152784"
+    video: "https://www.youtube.com/watch?v=Co9qRWFlQfs"
   - name: "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
     authors: "Fangfan Li, Arian Akhavan Niaki, David Choffnes, Phillipa Gill, and Alan Mislove"
     conference: "In Proceedings of ACM SIGCOMM 2019"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3341302.3342092"    
+    video: "https://dl.acm.org/doi/10.1145/3341302.3342092"
+    html_url: "http://dd.meddle.mobi"
   - name: "Studying TLS Usage in Android Apps"
     authors: "Abbas Razaghpanah, Arian Akhavan Niaki, Narseo Vallina-Rodriguez, Srikanth Sundaresan, Johanna Amann, and Phillipa Gill"
     conference: "Conference on emerging Networking EXperiments and Technologies (CoNEXT)"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3143361.3143400"    
+    repo: "https://haystack.mobi/datasets.html"
   - name: "liberate (n): A library for exposing (traffic-classification) rules and avoiding them efficiently"
     authors: "Fangfan Li, Abbas Razaghpanah, Arash Molavi Kakhki, Arian Akhavan Niaki, David Choffnes, Phillipa Gill, and Alan Mislove"
     conference: "Internet Measurement Conference (IMC). London, UK."
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3131365.3131376"    
+    repo: "https://dd.meddle.mobi/liberate.html"
   - name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
     authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani</u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
@@ -140,6 +156,10 @@ projects:
     html_url: https://github.com/arianniaki/centinel
     source: github
 
+  - name: ICLab
+    description: A global Internet censorship measurement project. 
+    html_url: https://github.com/arianniaki/centinel
+    source: github
 
 
 
