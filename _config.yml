@@ -64,7 +64,7 @@ work:
       <li> Analyzed web performance data from PSQL databases</li>
     </ul>"
   - company: "International Computer Science Institute (ICSI)"
-    company_url: "https://icsi.berkeley.edu/"
+    company_url: "http://icsi.berkeley.edu/"
     role: "Research Intern"
     start: "May 2018"
     end: "August 2018"
