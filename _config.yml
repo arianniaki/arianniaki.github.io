@@ -113,6 +113,7 @@ publication:
     conference: "In Proceedings of the 10th USENIX Workshop on Free and Open Communications on the Internet. FOCI 20. USENIX 2020"
     pdf: "https://www.usenix.org/system/files/foci20-paper-anonymous_0.pdf"
     video: "https://www.youtube.com/watch?v=ssG-mj2o_8o"
+    repo: "https://gfw.report/publications/foci20_dns/en/"
   - name: "Assessing the Privacy Benefits of Domain Name Encryption"
     authors: "Nguyen Phong Hoang, Arian Akhavan Niaki, Nikita Borisov, Phillipa Gill and Michalis Polychronakis"
     conference: "In Proceedings of ACM ASIACCS 2020"
@@ -127,12 +128,13 @@ publication:
     conference: "Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland). IEEE. 2020"
     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9152784"
     video: "https://www.youtube.com/watch?v=Co9qRWFlQfs"
+    repo: "https://iclab.org/post/iclab_data/"
   - name: "A Large-Scale Analysis of Deployed Traffic Differentiation Practices"
     authors: "Fangfan Li, Arian Akhavan Niaki, David Choffnes, Phillipa Gill, and Alan Mislove"
     conference: "In Proceedings of ACM SIGCOMM 2019"
     pdf: "https://dl.acm.org/doi/pdf/10.1145/3341302.3342092"    
     video: "https://dl.acm.org/doi/10.1145/3341302.3342092"
-    html_url: "http://dd.meddle.mobi"
+    repo: "http://dd.meddle.mobi"
   - name: "Studying TLS Usage in Android Apps"
     authors: "Abbas Razaghpanah, Arian Akhavan Niaki, Narseo Vallina-Rodriguez, Srikanth Sundaresan, Johanna Amann, and Phillipa Gill"
     conference: "Conference on emerging Networking EXperiments and Technologies (CoNEXT)"
@@ -156,13 +158,7 @@ projects:
     html_url: https://github.com/arianniaki/centinel
     source: github
 
-  - name: ICLab
-    description: A global Internet censorship measurement project. 
-    html_url: https://github.com/arianniaki/centinel
-    source: github
-
-
-
+  
 
 # topics:
 #   - name: Java
