@@ -107,7 +107,7 @@ publication:
   - name: "Cache me Outside: A New Look at DNS Cache Probing"
     authors: "Arian Akhavan Niaki, William Marczak, Sahand Farhoodi, Andrew McGregor, Phillipa Gill and Nicholas Weaver"
     conference: "In Proceedings of the 22nd Passive and Active Measurement Conference (PAM 2021)"
-    pdf: "https://link.springer.com/content/pdf/10.1007%2F978-3-030-72582-2_25.pdf"
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-72582-2_25"
   - name: "Triplet Censors: Demystifying Great Firewalls DNS Censorship Behavior"
     authors: "Anonymous, Arian Akhavan Niaki, Nguyen Phong Hoang, Phillipa Gill and Amir Houmansadr"
     conference: "In Proceedings of the 10th USENIX Workshop on Free and Open Communications on the Internet. FOCI 20. USENIX 2020"
