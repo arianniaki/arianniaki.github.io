@@ -54,6 +54,16 @@ work:
       <li> Developing and maintaining a global <a href=\"https://iclab.org\">Internet Measurement Platform</a>. </li>
       <li> Investigating DNS over HTTPS and DNS over TLS. </li>
     </ul>"
+  - company: "Cloudflare"
+    company_url: "https://www.cloudflare.com"
+    role: "Research Intern"
+    start: "June 2021"
+    end: "August 2021"
+    # description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+    #   <li> Worked on analyzing and comparing CDN performance globally</li>
+    #   <li> Analyzed web performance data from PSQL databases</li>
+    # </ul>"
+
   - company: "Thousand Eyes (Cisco)"
     company_url: "https://www.thousandeyes.com"
     role: "Research Intern"
@@ -104,6 +114,14 @@ work:
 
 
 publication:
+  - name: "How Great is the Great Firewall? Measuring China's DNS Censorship"
+    authors: "Nguyen Phong Hoang, Arian Akhavan Niaki, Jakub Dalek, Jeffrey Knockel, Pellaeon Lin, Bill Marczak, Masashi Crete-Nishihata, Phillipa Gill, Michalis Polychronakis"
+    conference: "To appear in USENIX Security 2021"
+    pdf: "https://www.usenix.org/conference/usenixsecurity21"
+  - name: "Domain Name Encryption Is Not Enough: Privacy Leakage via IP-based Website Fingerprinting"
+    authors: "Nguyen Phong Hoang, Arian Akhavan Niaki, Phillipa Gill, Michalis Polychronakis"
+    conference: "To appear in PoPETS 2021"
+    pdf: "https://www.petsymposium.org/cfp21.php"
   - name: "Cache me Outside: A New Look at DNS Cache Probing"
     authors: "Arian Akhavan Niaki, William Marczak, Sahand Farhoodi, Andrew McGregor, Phillipa Gill and Nicholas Weaver"
     conference: "In Proceedings of the 22nd Passive and Active Measurement Conference (PAM 2021)"
