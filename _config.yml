@@ -54,12 +54,12 @@ work:
       <li> Developing and maintaining a global <a href=\"https://iclab.org\">Internet Measurement Platform</a>. </li>
       <li> Investigating DNS over HTTPS and DNS over TLS. </li>
     </ul>"
-  - company: "Cloudflare"
-    company_url: "https://www.cloudflare.com"
-    role: "Research Intern"
-    start: "June 2021"
-    end: "August 2021"
-    # description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+  # - company: "Cloudflare"
+  #   company_url: "https://www.cloudflare.com"
+  #   role: "Research Intern"
+  #   start: "June 2021"
+  #   end: "August 2021"
+  #   # description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     #   <li> Worked on analyzing and comparing CDN performance globally</li>
     #   <li> Analyzed web performance data from PSQL databases</li>
     # </ul>"
