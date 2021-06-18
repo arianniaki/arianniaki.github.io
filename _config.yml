@@ -51,7 +51,6 @@ work:
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
       <li> Conducting research in the areas of Internet Measurement, Privacy and Security. </li>
-      <li> Developing and maintaining a global <a href=\"https://iclab.org\">Internet Measurement Platform</a>. </li>
       <li> Investigating DNS over HTTPS and DNS over TLS. </li>
     </ul>"
   # - company: "Cloudflare"
@@ -170,11 +169,11 @@ publication:
 
 
 
-projects:
-  - name: ICLab
-    description: A global Internet censorship measurement project. 
-    html_url: https://github.com/arianniaki/centinel
-    source: github
+# projects:
+#   - name: ICLab
+#     description: A global Internet censorship measurement project. 
+#     html_url: https://github.com/arianniaki/centinel
+#     source: github
 
   
 
